@@ -1,6 +1,5 @@
 pyrogram
 requests
 telegram
-ast
 dotenv
 
