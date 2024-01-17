@@ -1,9 +1,7 @@
 pyrogram
 requests
-glob
-ast
 telegram
 logging
-threading
+ast
 dotenv
 
