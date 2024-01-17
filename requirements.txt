@@ -1,0 +1,10 @@
+pyrogram
+collections
+urllib
+requests
+glob
+ast
+telegram
+logging
+threading
+dotenv
