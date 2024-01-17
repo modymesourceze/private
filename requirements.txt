@@ -1,7 +1,6 @@
 pyrogram
 requests
 telegram
-logging
 ast
 dotenv
 
