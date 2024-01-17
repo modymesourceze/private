@@ -1,5 +1,4 @@
 pyrogram
-urllib.request
 requests
 glob
 ast
@@ -7,4 +6,4 @@ telegram
 logging
 threading
 dotenv
-os.path
+
